@@ -1,3 +1,4 @@
+package edu.cassio.anatomia;
 import java.lang.Math;
 public class VariaveisEMetodos {
   public static void main(String[] args) {

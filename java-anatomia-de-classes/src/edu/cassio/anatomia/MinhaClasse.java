@@ -1,3 +1,4 @@
+package edu.cassio.anatomia;
 public class MinhaClasse {
   public static void main(String[] args) {
     String $pais = "Nova Zelândia";
