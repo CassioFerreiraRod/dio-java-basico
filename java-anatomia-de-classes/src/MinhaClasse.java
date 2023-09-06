@@ -4,6 +4,6 @@ public class MinhaClasse {
     int numeroum = 1;
     int numero2 = 2;
     String _capital = "Brasília";
-    Strimg palavraComposta = "Cachorro-quente";
+    String palavraComposta = "Cachorro-quente";
   }
 }
