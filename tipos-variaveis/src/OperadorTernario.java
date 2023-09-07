@@ -10,7 +10,7 @@ public class OperadorTernario {
 
     int c,d;
     c = 2;
-    d = 5; 
+    d = 2; 
 
     int resultado1 = c == d ? 1 : 0;
 
