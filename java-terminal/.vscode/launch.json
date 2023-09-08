@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AboutMeScanner",
+      "request": "launch",
+      "mainClass": "AboutMeScanner",
+      "projectName": "java-terminal_25e52f04"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
